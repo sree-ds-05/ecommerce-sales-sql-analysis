@@ -167,6 +167,19 @@ Standard Class generated the highest sales volume.
 - Optimize shipping operations around Standard Class deliveries.
 
 ---
+## Query Results
+
+### Sales by Category
+
+![Sales by Category](Category.png)
+
+### Profit by Region
+
+![Profit by Region](Region.png)
+
+### Top Products
+
+![Top Products](Products.png)
 
 ## Author
 
