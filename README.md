@@ -179,7 +179,7 @@ Standard Class generated the highest sales volume.
 
 ### Top Products
 
-![Top Products](Products.png)
+![Top Products](Product name.png)
 
 ## Author
 
